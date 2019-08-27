@@ -11,19 +11,16 @@ header:
 excerpt: "Some projects concerning data science."
 
 feature_row:
-  - image_path: /images/data_mining.jpg
-    alt: "placeholder image 1"
+  - image_path: /images/data_mining.png
     title: "Data Mining Projects"
     excerpt: "Different projects concerning data mining methods and techniques used to guide the discovery process and later support the process of decision making."
-  - image_path: /images/logo_1_1.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://github.com/vidigaljoao/Data-Mining"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/logo_1_1.jpg
+  - image_path: 
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: 
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
