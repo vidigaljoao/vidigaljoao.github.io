@@ -16,7 +16,7 @@ minimal_mistakes_skin    :  "contrast"  #"default"  "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data Driven Decisions"
+title                    : #"Data Driven Decisions"
 title_separator          : "-"
 subtitle                 : #"by João Vidigal"
 name                     : "João Vidigal"
