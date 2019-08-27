@@ -300,3 +300,11 @@ defaults:
       layout: single
       author_profile: true
 
+  # _portofolio
+  - scope:
+      path: ""
+      type: portofolio
+    values:
+      layout: single
+      author_profile: true
+
