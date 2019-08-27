@@ -12,7 +12,7 @@ excerpt: #"Some projects concerning data science."
 
 feature_row:
   - title: "Data Mining Projects"
-    excerpt: <p style='text-align: justify;'> "Different projects concerning data mining methods and techniques used to guide the discovery process and later support the process of decision making." </p>
+    excerpt: "Different projects concerning data mining methods and techniques used to guide the discovery process and later support the process of decision making." 
     url: "https://github.com/vidigaljoao/Data-Mining"
     btn_label: "Read More"
     btn_class: "btn--primary"
