@@ -23,4 +23,4 @@ During my academic career, I developed and implemented new systems for the produ
 * Time series forecast: stastmodel, prophet
 * Visualization: Matplotlib, Seaborn; Dashboard/ web apps: bokeh, panel(holoviz)
 * Basic distributed computing: Pyspark, Dask;  
-* basic interface with databases: Sqlite3, SQLAlchemy; among others.
+* basic interface with databases: Sqlite3, SQLAlchemy; among others.</p>
