@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "First post!"
 date:   2019-08-01 16:33:25 +0000
 ---
