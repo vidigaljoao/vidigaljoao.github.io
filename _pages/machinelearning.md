@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /machinelearning/
 title: "Machine Learning Posts by Tags"
 author_profile: true
 header:
