@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Data Mining!"
+title:  "New Data Mining projects added!"
 date:   2019-08-01 14:33:25 +0200
 author: "João Vidigal"
 tags: [data science]
