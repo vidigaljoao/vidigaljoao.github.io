@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "First post!"
-date:   2019-08-01 16:33:25 +0200
+date:   2019-08-01 14:33:25 +0200
 author: "João Vidigal"
 tags: [data science]
 excerpt: "Data Science"

@@ -1,9 +1,11 @@
 # main links
 main:
+  - title: "Data Science Content"
+    url: /datascience/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
-    url: /machinelearning/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
