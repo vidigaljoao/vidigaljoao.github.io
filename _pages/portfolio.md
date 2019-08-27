@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /_pages/portfolio/
 title: "Portfolio Work"
+permalink: /portfolio/
 author_profile: true
 header:
     image: "/images/header_3.jpg
