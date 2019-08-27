@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /portfolio/
+permalink: /_pages/portfolio/
 title: "Portfolio Work"
 author_profile: true
 header:
