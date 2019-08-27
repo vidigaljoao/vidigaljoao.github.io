@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /images/header_1.jpg
   caption: "Photo credit: **Vidigal**"
-excerpt: "Some projects concerning data science."
+excerpt: #"Some projects concerning data science."
 
 feature_row:
   - image_path: #/images/data_mining.png
