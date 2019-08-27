@@ -11,9 +11,8 @@ header:
 excerpt: #"Some projects concerning data science."
 
 feature_row:
-  - image_path: #/images/data_mining.png
-    title: "Data Mining Projects"
-    excerpt: "Different projects concerning data mining methods and techniques used to guide the discovery process and later support the process of decision making."
+  - title: "Data Mining Projects"
+    excerpt: <p style='text-align: justify;'> "Different projects concerning data mining methods and techniques used to guide the discovery process and later support the process of decision making." </p>
     url: "https://github.com/vidigaljoao/Data-Mining"
     btn_label: "Read More"
     btn_class: "btn--primary"
