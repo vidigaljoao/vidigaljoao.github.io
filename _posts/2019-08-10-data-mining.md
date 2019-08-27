@@ -6,6 +6,8 @@ author: "João Vidigal"
 tags: [data science, Data mining]
 excerpt: "Data Science", "Data Mining", "Portfolio"
 ---
+
+
 **Data mining** is the process of discovering interesting patterns from massive amounts of data.  
  As a knowledge discovery process, it typically involves data cleaning, data integration, data selection, data transformation, pattern discovery, pattern evaluation, and knowledge presentation.
 
