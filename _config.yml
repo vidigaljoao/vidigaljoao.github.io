@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "João Vidigal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/foto_JV.jpg"
   bio              : "Data Science Portfolio"
   location         : "Wien/Lisboa"
   email            : vidigal.j@gmail.com
