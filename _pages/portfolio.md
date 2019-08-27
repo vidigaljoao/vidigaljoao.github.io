@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Portfolio Work"
 permalink: /portfolio/
 author_profile: true
