@@ -12,11 +12,12 @@ Hi!
 <p style='text-align: justify;'> I am currently finishing my PhD in biotechnology. Yet I wish to full transition into the data science field. 
 To do so I will compile and document my journey here.</p>
 
-<p style='text-align: justify;'> The name *Data Driven Decisions* was choose as its something I always live by . My scientific background and academic career  are mostly behind my data driven decisions. Decisions backed by hard data and scientific method. Avoiding the ones that are intuitive or based on observation alone.
+<p style='text-align: justify;'> The name *Data Driven Decisions* was choose as its something I always live by . My scientific background and academic career  are mostly behind my data driven decisions. Decisions backed by hard data and scientific method. Avoiding the ones that are intuitive or based on observation alone.</p>
 
 This is why the role of data scientist atracted the most. Be able to extract value from data and make rational business decisions in the current competitive environment.
 
 ___
+
 ## Website architecture
 
 ** There are three major sections:**
