@@ -8,7 +8,6 @@ excerpt: "Data Science"
 ---
 Hi!
 
-
 <p style='text-align: justify;'> I am currently finishing my PhD in biotechnology. Yet I wish to full transition into the data science field. 
 To do so I will compile and document my journey here.</p>
 
@@ -20,7 +19,7 @@ ___
 
 ## Website architecture
 
-**There are three major sections:**
+There are three major sections:
 
 * The first is [Data Science Content](/datascience/). Here I  will  summarize and explain more theoretical core concepts in Data Science.
 * The second is [Portfolio](/potfolio/). In this section I will add a collection of projects done in Data Science.
