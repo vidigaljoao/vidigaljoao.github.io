@@ -8,5 +8,5 @@ excerpt: "Data Science"
 ---
 
 The first of many about different topics in Data Science.  
-I will also add some of my projects that help me in in this journey into Data science, they will be in the portfolio page.
+I will also add some of my projects that help me in this journey into Data science.
 
