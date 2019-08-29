@@ -32,3 +32,5 @@ Three major components compose this dashboard architecture:
 * 2. **Forecast Model** using Facebook forecast library. To predict the value of stocks in the next days we used the prophet, an easy and robust forecast model built to aid in business time series problems. To measure model performance we used  the root-mean-square error (RMSE). 
 
 * 3. **Dashboard Layout** built using the new pyviz library to construct dashboards, Panel . The dashboard enables interactive visualization and parameter change. It gives a big picture of stock time series and the forecast model. 
+
+Go to [portfolio](/portfolio/) if you want to acess the code.
