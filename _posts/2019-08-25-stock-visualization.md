@@ -16,8 +16,12 @@ Discover is finding ways to process and calculate the data, how to reason about 
 Visualization is communication, and is an integral part of the business value of a company.
 
 Data visualization can be a simple plot or a complex dashboard. 
-Dashboards take visualization to the next level by updating  according to data modifications. Also, dashboards enable easier comparisons between different models. Data scientists spend the majority of their time cleaning and wrangling data so they can extract valuable insights. Dashboards have the added benefit of helping in that aspect. Also, they can help other users that were not behind the code to play and filter the data.
 
+## Dashboards
+
+Dashboards take visualization to the next level by updating  according to data modifications. They enable easier comparisons between different models. Data scientists spend the majority of their time cleaning and wrangling data so they can extract valuable insights. Dashboards have the added benefit of helping in that aspect. Also, they can help other users (that were not behind the code)to play and filter the data.
+
+## Stock Prediction Dashboard
 
 {% include figure image_path="/images/dash_stocks.gif"  caption="Example figure of the dashboard." %}
 
