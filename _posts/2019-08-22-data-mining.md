@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "New Data Mining Projects in the Portfolio!"
+title:  "Some concepts about Data Mining!"
 date:   2019-08-01 14:33:25 +0200
 author: "João Vidigal"
 tags: [data science]
