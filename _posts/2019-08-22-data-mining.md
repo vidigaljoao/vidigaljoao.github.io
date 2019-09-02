@@ -16,7 +16,7 @@ excerpt: "Data Science"
 
 <p style='text-align: justify;'>"Data have quality if they satisfy the requirements of the intended use."</p>
 
-<p style='text-align: justify;'>There are some people that doesn't consider data processing as data mining. However, is essential to do a correct data mining process.</p>
+<p style='text-align: justify;'>There are some people that doesn't consider data processing as data mining. However, is essential and the first step to a proper data mining.</p>
 
 **What is data processing?**
 
