@@ -11,7 +11,7 @@ header:
 excerpt: #"Some projects concerning data science."
 
 feature_row:
-  - title: "Data Mining Projects"
+  - title: "Machine learning/Data Mining Projects"
     excerpt: "Different projects regarding data mining methods and techniques." 
     url: "https://github.com/vidigaljoao/Data-Mining"
     btn_label: "More Info"

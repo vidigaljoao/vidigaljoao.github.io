@@ -22,8 +22,8 @@ ___
 There are three major sections:
 
 *  [Homepage/Blog](/). Here I  will  post some content about Data Science.
-* [Portfolio](/potfolio/). In this section I will add a collection of projects done in Data Science.
-* Finally, [About]() where I show some details of who I am and what I do and  my main technical skills.
+* [Portfolio](/portfolio/). In this section I will add a collection of projects done in Data Science.
+* Finally, [About](/about/) where I show some details of who I am and what I do and  my main technical skills.
 
 
 
