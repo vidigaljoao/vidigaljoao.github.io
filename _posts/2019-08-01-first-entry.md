@@ -21,8 +21,8 @@ ___
 
 There are three major sections:
 
-* The first is [Data Science Content](/datascience/). Here I  will  summarize and explain more theoretical core concepts in Data Science.
-* The second is [Portfolio](/potfolio/). In this section I will add a collection of projects done in Data Science.
+*  [Homepage/Blog](/). Here I  will  post some content about Data Science.
+* [Portfolio](/potfolio/). In this section I will add a collection of projects done in Data Science.
 * Finally, [About]() where I show some details of who I am and what I do and  my main technical skills.
 
 
