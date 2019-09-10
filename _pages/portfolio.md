@@ -21,8 +21,11 @@ feature_row:
     url: "https://github.com/vidigaljoao/visualization"
     btn_label: "More Info"
     btn_class: "btn--primary"
-  - title: #"Placeholder 3"
-    excerpt: #"This is some sample content that goes here with **Markdown** formatting."
+  - title: "Time Series Forecast"
+    excerpt: "Different projects concerning time series analysis and forecast."
+    url: "https://github.com/vidigaljoao/Time_Series_Analysis"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
 
 ---
 
