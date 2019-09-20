@@ -4,7 +4,7 @@ permalink: /tags/
 layout: tags
 author_profile: false
 header:
-  overlay_image: /images/header_3.jpg
+  overlay_image: /images/header_4.jpg
   caption: "Photo credit: **Vidigal**"
 sidebar:
   title: "Blogroll"
