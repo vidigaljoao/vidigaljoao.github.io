@@ -7,7 +7,6 @@ header:
 excerpt: #"Some projects concerning data science."
 ---
 ![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub.jpg){: .align-right}
-
 <p style='text-align: justify;'> I am an entry level data scientist with background in biotechnology.
 During my academic career, I developed and implemented new systems for the production of complex biopharmaceuticals (e.g. vaccines). </p>
 
