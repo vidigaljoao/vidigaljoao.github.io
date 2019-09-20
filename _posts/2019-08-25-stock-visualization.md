@@ -3,7 +3,7 @@ layout: posts
 title:  "Data Visualization - Stock Prediction Dashboard"
 date:   2019-08-25 08:33:25 +0200
 author: "João Vidigal"
-tags: [data science, Visualization]
+tags: [Data science, Visualization, Forecast]
 excerpt: "Visualization"
 ---
 

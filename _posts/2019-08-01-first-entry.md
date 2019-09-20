@@ -3,8 +3,8 @@ layout: posts
 title:  "First post!"
 date:   2019-08-01 14:33:25 +0200
 author: "João Vidigal"
-tags: [data science]
-excerpt: "Data Science"
+tags: [Update]
+excerpt: "My update"
 ---
 ![Hello World!](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hello_world_c.svg/800px-Hello_world_c.svg.png)
 
