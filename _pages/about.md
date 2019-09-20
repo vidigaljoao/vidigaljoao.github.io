@@ -4,9 +4,9 @@ permalink: /about/
 header:
   overlay_image: /images/header_2.jpg
   caption: "Photo credit: **Vidigal**"
-excerpt: #"Some projects concerning data science."
+excerpt: #"All about me."
 ---
-![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub_about.jpg){: .align-left}
+![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub2.jpg){: .align-right}
 <p style='text-align: justify;'> I am an entry level data scientist with background in biotechnology.
 During my academic career, I developed and implemented new systems for the production of complex biopharmaceuticals (e.g. vaccines). </p>
 
