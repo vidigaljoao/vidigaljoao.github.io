@@ -6,7 +6,7 @@ author: "João Vidigal"
 tags: [data science]
 excerpt: "Data Science"
 ---
-Hi!
+[Hello World!](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hello_world_c.svg/800px-Hello_world_c.svg.png) 
 
 <p style='text-align: justify;'> I am currently finishing my PhD in biotechnology. Yet I wish to full transition into the data science field. 
 To do so I will compile and document my journey here.</p>
@@ -18,6 +18,8 @@ This is the role of data scientist. To be able to extract value from data and ma
 ___
 
 ## Website architecture
+
+This website is based off the Minimal Mistakes theme by Michael Rose, generated with Jekyll and hosted by GitHub Pages.
 
 There are three major sections:
 
