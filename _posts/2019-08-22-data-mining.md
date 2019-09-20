@@ -11,6 +11,14 @@ excerpt: "Data Science"
 
 <p style='text-align: justify;'> As a knowledge discovery process, it typically involves data cleaning, data integration, data selection, data transformation, pattern discovery, pattern evaluation, and knowledge presentation.</p>
 
+<p style='text-align: justify;'>Here, I am just going briefly on the major data mining methods and techniques used in the process of decision making. They are:</p>
+
+* Data preprocessing
+* Pattern mining
+* Cluster Analysis
+* Classification
+
+
 
 ## 1. Data Processing
 
