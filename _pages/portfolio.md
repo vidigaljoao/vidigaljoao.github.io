@@ -15,7 +15,7 @@ feature_row:
     btn_label: "More Info"
     btn_class: "btn--primary"
   - title: "Visualization Projects               "
-    excerpt: "Different projects concerning visualization."
+    excerpt: "Different projects concerning visualization.                    "
     url: "https://github.com/vidigaljoao/visualization"
     btn_label: "More Info"
     btn_class: "btn--primary"
