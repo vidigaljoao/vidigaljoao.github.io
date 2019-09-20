@@ -37,7 +37,7 @@ excerpt: "Some concepts about Data Mining..."
 
 ## 2. Frequent Pattern Mining
 
-<p style='text-align: justify;'> "Frequent Pattern Mining (FPM) is one of the most important techniques because of its ability to locate the repeating relationships between different items in a data set and represent them in the form of association rules."</p>
+> "Frequent Pattern Mining (FPM) is one of the most important techniques because of its ability to locate the repeating relationships between different items in > a data set and represent them in the form of association rules."
 
 <p style='text-align: justify;'> FPM algorithms are efficient and scalable algorithm used to identify the significant hidden patterns that frequently exist in data. The most important  are the Apriori algorithm and FP-Growth algorithm.</p>
  
