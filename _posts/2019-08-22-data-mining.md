@@ -4,7 +4,7 @@ title:  "Some concepts about Data Mining!"
 date:   2019-08-01 14:33:25 +0200
 author: "João Vidigal"
 tags: [Data science, Data mining, Machine learning]
-excerpt: "Data Science"
+excerpt: "Some concepts about Data Mining..."
 ---
 ![Data Mining!](https://images.unsplash.com/photo-1549986676-4a401c873ce7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80){: .align-center}
 <p style='text-align: justify;'> Data mining is the process of discovering interesting patterns from massive amounts of data.</p>

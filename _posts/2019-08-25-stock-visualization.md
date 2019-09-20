@@ -25,7 +25,7 @@ Dashboards take visualization to the next level by updating  according to data m
 
 {% include figure image_path="/images/dash_stocks.gif"  caption="Example figure of the dashboard." %}
 
-Stock price forecasting Dashboard enables the user to predict the price of a particular stock quote and help them to make a decision based on data visualization. Here, the user only needs to write the stock that the application later will find the historical data and show it live.
+Stock price forecasting dashboard enables the user to predict the price of a particular stock quote and help them to make a decision based on data visualization. Here, the user only needs to write the stock that the application later will find the historical data and show it live.
 From the historical data, forecast model with future price will be plotted in the dashboard. 
 
 Three major components compose this dashboard architecture:
