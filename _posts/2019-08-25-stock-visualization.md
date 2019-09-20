@@ -1,10 +1,10 @@
 ---
 layout: posts
-title:  "Data Visualization - Stock Prediction Dashboard"
+title:  "Stock Prediction Dashboard"
 date:   2019-08-25 08:33:25 +0200
 author: "João Vidigal"
 tags: [Data science, Visualization, Forecast]
-excerpt: "Visualization"
+excerpt: "Example of Dashboard Visualization"
 ---
 
 "A picture is worth a thousand words" 
