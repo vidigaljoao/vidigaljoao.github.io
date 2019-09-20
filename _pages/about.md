@@ -6,9 +6,9 @@ header:
   caption: "Photo credit: **Vidigal**"
 excerpt: #"All about me."
 ---
-![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub2.jpg){: .align-left}
+![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub2.jpg){: .align-right}
 <p style='text-align: justify;'> I am an entry level data scientist with background in biotechnology.
-During my academic career, I developed and implemented new systems for the production of complex biopharmaceuticals (e.g. vaccines). </p>
+During my academic career, I developed and implemented new systems for the production of complex biopharma (e.g. vaccines). </p>
 
 <p style='text-align: justify;'>During this work, I came across the need to use better tools to support the decision making while analyzing data. Thus, I invested in parallel education and fell in love with the field of data science. I have completed a post-graduation and I am now looking for a job in the area. I wish to make a full transition into data science professionally and welcome opportunities to further expand my expertise.</p>
 
