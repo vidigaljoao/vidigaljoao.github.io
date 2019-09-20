@@ -6,7 +6,7 @@ author: "João Vidigal"
 tags: [Data science, Data mining, Machine learning]
 excerpt: "Data Science"
 ---
-![Data Mining!](https://t4.ftcdn.net/jpg/01/22/31/39/500_F_122313924_V804dOPDqv5gNtEegIU6dH79MsbZsQPE.jpg){: .align-center}
+![Data Mining!](https://images.unsplash.com/photo-1549986676-4a401c873ce7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80){: .align-center}
 <p style='text-align: justify;'> Data mining is the process of discovering interesting patterns from massive amounts of data.</p>
 
 <p style='text-align: justify;'> As a knowledge discovery process, it typically involves data cleaning, data integration, data selection, data transformation, pattern discovery, pattern evaluation, and knowledge presentation.</p>
