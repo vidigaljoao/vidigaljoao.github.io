@@ -6,7 +6,7 @@ header:
   caption: "Photo credit: **Vidigal**"
 excerpt: #"All about me."
 ---
-![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub.jpg){: .align-left}
+![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub.jpg){: .align-right}
 <p style='text-align: justify;'> I am an entry level data scientist with background in biotechnology.
 During my academic career, I developed and implemented new systems for the production of complex biopharma (e.g. vaccines). </p>
 
