@@ -7,9 +7,9 @@ header:
 excerpt: #"All about me."
 ---
 **Who am I?** 
-![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub.jpg){: .align-right}
-<p style='text-align: justify;'> I am an entry level data scientist with background in biotechnology. </p>
 
+<p style='text-align: justify;'> I am an entry level data scientist with background in biotechnology. </p>
+![JV in Dubrovnik]({{ site.url }}{{ site.baseurl }}/images/jv_dub.jpg){: .align-right}
 <p style='text-align: justify;'>During my academic career, I developed and implemented new systems for the production of complex biopharma (e.g. vaccines). 
 During this work, I came across the need to use better tools to support the decision making while analyzing data. Thus, I invested in parallel education and fell in love with the field of data science. </p>
 

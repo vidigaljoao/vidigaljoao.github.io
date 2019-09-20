@@ -11,7 +11,7 @@ excerpt: "Some concepts about Data Mining..."
 
 <p style='text-align: justify;'> As a knowledge discovery process, it typically involves data cleaning, data integration, data selection, data transformation, pattern discovery, pattern evaluation, and knowledge presentation.</p>
 
-<p style='text-align: justify;'>I will cover some of the major data mining methods and techniques used nowadays in the process of decision making.
+<p style='text-align: justify;'>I will cover the major data mining methods and techniques used nowadays.
  Methods like:</p>
 
 * Data preprocessing
