@@ -18,8 +18,6 @@ To do so I will compile and document some topics that I think are important in t
 
 This is the role of data scientist. To be able to extract value from data and make rational business decisions in the current competitive environment.
 
-___
-
 ## Website architecture
 
 This website is based off the Minimal Mistakes theme by Michael Rose, generated with Jekyll and hosted by GitHub Pages.
