@@ -6,7 +6,7 @@ author: "João Vidigal"
 tags: [data science]
 excerpt: "Data Science"
 ---
-[Hello World!](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hello_world_c.svg/800px-Hello_world_c.svg.png) 
+![Hello World!](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hello_world_c.svg/800px-Hello_world_c.svg.png)
 
 <p style='text-align: justify;'> I am currently finishing my PhD in biotechnology. Yet I wish to full transition into the data science field. 
 To do so I will compile and document my journey here.</p>
