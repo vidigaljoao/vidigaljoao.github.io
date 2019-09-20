@@ -3,7 +3,7 @@ layout: posts
 title:  "Some concepts about Data Mining!"
 date:   2019-08-01 14:33:25 +0200
 author: "João Vidigal"
-tags: [data science]
+tags: [data science, data mining, machine learning]
 excerpt: "Data Science"
 ---
 
